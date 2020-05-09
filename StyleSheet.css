@@ -139,6 +139,7 @@
     height:60px;
     font-weight:bold;
 }
+
 nav a:hover {
     color: red !important;
     background-color: grey;
@@ -173,6 +174,6 @@ nav a:hover {
 
     .bgimg {
         
-        height:60px;
+        height:50vh;
     }
     }
