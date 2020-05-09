@@ -160,15 +160,19 @@ nav a:hover {
         width: 200px;
     }
 }
-@media(min-width:769px) and (max-width:992px){
+@media(min-width:769px) and (max-width:992px) {
     .headerset {
         box-sizing: border-box;
         padding-top: 130px;
-
-
     }
+
     .imgset {
         height: 200px;
         width: 200px;
+    }
+
+    .bgimg {
+        
+        height:60px;
     }
     }
