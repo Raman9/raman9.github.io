@@ -153,12 +153,22 @@ nav a:hover {
     }
     .team {
         margin-top: 2500px;
-        height: 1400px;
+        height: 1300px;
+    }
+    .imgset {
+        height: 200px;
+        width: 200px;
     }
 }
 @media(min-width:769px) and (max-width:992px){
     .headerset {
         box-sizing: border-box;
         padding-top: 130px;
+
+
+    }
+    .imgset {
+        height: 200px;
+        width: 200px;
     }
     }
