@@ -1,0 +1,164 @@
+﻿.bgimg {
+    /*background-image: url("E:/bootstrap/website/image2.jpg");*/
+    /*background-image: url("C:\Users\krish\pictures\HeadlightRestoration.jpg");*/
+    background-image: url("./image2.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height:100vh;
+}
+.headerset{
+    box-sizing:border-box;
+    padding-top:250px;
+}
+.headerset h2{
+    font-size:42px;
+}
+.headerset h1{
+    font-size:82px;
+    font-weight:bold;
+}
+.body1{
+   color:black;
+}
+.body1 h2{
+    font-size:52px;
+}
+.body1 p{
+    font-size:medium;
+}
+.web{
+    font-weight:bold;
+
+}
+.web1{
+    font-size:large;
+}
+.rowsetting {
+    margin: 80px 0px;
+}
+.rowsetting p{
+    margin-top:20px;
+    color:#6c757d;
+}
+.rowsetting h3{
+    font-weight:bold;
+}
+.oursetting{
+    padding:100px;
+    height:700px;
+}
+.imgsetting{
+ 
+    border-radius:70%;
+    height:100px;
+    width:100px;
+    
+}
+.fa-shopping-cart{
+    padding-top:20px;
+}
+.fa-desktop {
+    padding-top: 20px;
+}
+.fa-lock {
+    padding-top: 20px;
+}
+.port {
+    padding:100px 0px 50px;
+    height: 1500px;
+    color: black;
+    width:100%;
+}
+.port h1 {
+    font-weight: bold;
+    font-size: 50px;
+    
+
+   }
+.port p{
+    font-size:medium;
+}
+.card{
+    margin-top:50px;
+    height:350px;
+
+}
+.card h2{
+    padding-top:50px;
+}
+.team {
+    padding-top: 150px;
+    width: 100%;
+    color: black;
+    background-image:linear-gradient(#00ffff,#00ff21);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+
+.team h2{
+    font-size:50px
+}
+.team p{
+    font-size:medium;
+
+}
+.teamshift{
+    padding-top:10px;
+    
+    margin-left:100px;
+
+    
+}
+.teamshift h3{
+    text-align:left;
+    font-weight:bold;
+    
+}
+    .teamshift p {
+        text-align:left;
+        font-size:medium;
+    }
+.imgset {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+
+
+
+}
+.footer{
+    margin-top:30px;
+    
+    height:70px;
+}
+.footer h6{
+    height:60px;
+    font-weight:bold;
+}
+nav a:hover {
+    color: red !important;
+    background-color: grey;
+}
+@media(max-width:768px){
+    .headerset {
+        box-sizing: border-box;
+        padding-top: 100px;
+    }
+    .port{
+        margin-top:250px;
+    }
+    .team {
+        margin-top: 2500px;
+        height: 1400px;
+    }
+}
+@media(min-width:769px) and (max-width:992px){
+    .headerset {
+        box-sizing: border-box;
+        padding-top: 130px;
+    }
+    }
